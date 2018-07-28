@@ -1,7 +1,7 @@
 React Calculator
 ------------------------
 
-Deployed link: https://ecstatic-edison-99e252.netlify.com
+Deployed link: https://calculator-react.netlify.com
 
 It is a simple calulator build on reactjs.
 
